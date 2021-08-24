@@ -20,10 +20,10 @@
  * 
  */
 
-#define TOUCH_PIN 4
-#define TOUCH_MIN 15
+#define TOUCH_PIN 15
+#define TOUCH_MIN 10
 
-#define LED_PIN 0
+#define LED_PIN 2
 #define LED_COUNT 24
 
 #define MIN_RAINBOW_MS 10000
